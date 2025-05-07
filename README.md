@@ -1,9 +1,12 @@
 # Alura Store Challenge
 
 ## Descripción
-Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento de cuatro tiendas para informar al Señor Juan nuestro analisis y que el tome la mejor Desición Informada sobre cual tienda podria vender. ![Tienda Icono](https://cdn-icons-png.flaticon.com/512/2503/2503734.png width="32" height="32")
-## Tabla de Contenidos
+Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento de cuatro tiendas para informar al Señor Juan nuestro analisis y que el tome la mejor Desición Informada sobre cual tienda podria vender.
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2503/2503734.png" alt="Tienda Icono" width="32" height="32">
+</p>
 
+## Tabla de Contenidos
 * [Descripción](#descripción)
 * [Objetivos del Proyecto](#objetivos-del-proyecto)
 * [Tecnologías Utilizadas](#tecnologías-utilizadas)
@@ -15,13 +18,11 @@ Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento 
 * [Licencia](#licencia)
 
 ## Objetivos del Proyecto
-
 * Analizar datos de rendimiento de cuatro tiendas.
 * Proporcionar un informe claro y conciso para facilitar la toma de Decisiones Informadas.
 * Desarrollar habilidades en análisis de datos y presentación de informes.
 
 ## Tecnologías Utilizadas
-
 * Jupiter Notebook (Colab)
 * Python
   - Pandas
@@ -31,7 +32,6 @@ Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento 
   - Geopandas
 
 ## Instalación
-
 Para ejecutar este proyecto, sigue estos pasos:
 
 1.  Clona este repositorio:
@@ -59,7 +59,6 @@ Para ejecutar este proyecto, sigue estos pasos:
     ```
 
 ## Uso
-
 1.  Abre el notebook de Jupyter:
 
     ```bash
@@ -70,7 +69,6 @@ Para ejecutar este proyecto, sigue estos pasos:
 3.  Ejecuta las celdas del notebook para realizar el análisis de datos y ver los resultados.
 
 ## Análisis de Datos
-
 En este repositorio, encontrarás un análisis detallado de los datos de rendimiento de las cuatro tiendas. El análisis incluye:
 
 * Análisis de facturación con el cual determino los ingresos totales de cada tienda y los represento en un gráfico de barras horizontal.
@@ -82,14 +80,12 @@ En este repositorio, encontrarás un análisis detallado de los datos de rendimi
 * Informe con el cual redacto el informe para el Señor Juan del análisis realizado a partir de la información obtenida en cada tienda, genero un archivo pdf con el respectivo informe.
 
 ## Conclusiones
-
 Basado en el análisis, las principales conclusiones son:
 
 * El promedio de ventas netas de las cuatro tiendas es de $1042.2 millones, la tienda con mayor ingreso es la tienda uno con ventas por $1089.5 millones y la tienda con menor ingreso es la tienda 4 con ventas por $983.1 millones.
 * La tienda mejor calificada fue la tienda tres con una calificación promedio de 4.05 mientras que la tienda con menor calificación fue la tienda uno con una calificación promedio de 3.98.
 
 ## Autor
-
 Rafael Romero
 
 * [Tu perfil de GitHub](https://github.com/RafaelRomeroTechDev)
