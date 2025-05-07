@@ -30,6 +30,7 @@ Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento 
   - Numpy
   - Contextily
   - Geopandas
+* Markdown
 
 ## Instalación
 Para ejecutar este proyecto, sigue estos pasos:
