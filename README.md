@@ -1,7 +1,7 @@
 # Alura Store Challenge
 
 ## Descripción
-Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento de cuatro tiendas para informar al Señor Juan nuestro analisis y que el tome la mejor Desición Informada sobre cual tienda podria vender. ![Tienda Icono](https://cdn-icons-png.flaticon.com/512/2503/2503734.png)
+Desarrollo de ejercicio practico "Alura Store", analizando datos de rendimiento de cuatro tiendas para informar al Señor Juan nuestro analisis y que el tome la mejor Desición Informada sobre cual tienda podria vender. ![Tienda Icono](https://cdn-icons-png.flaticon.com/512/2503/2503734.png width="32" height="32")
 ## Tabla de Contenidos
 
 * [Descripción](#descripción)
